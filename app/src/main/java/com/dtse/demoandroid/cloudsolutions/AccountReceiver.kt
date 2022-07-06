@@ -54,7 +54,7 @@ class AccountReceiver: BroadcastReceiver() {
     }
 
     private fun registerInServer(uid: String, token:String) {
-        //invoke cloud functions to insert the user and token
+        //TODO 1: invoke cloud functions to insert the user and token in cloud DB
         //Loggin for testing
         Log.d("Usuario","UID $uid\tToken $token")
         //Release the receiver
