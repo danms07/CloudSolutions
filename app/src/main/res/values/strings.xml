@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloudSolutions</string>
+    <string name="loginText">Inicia sesión para continuar</string>
+    <string name="anonymous">Usuario anónimo</string>
+</resources>
